@@ -1,0 +1,10 @@
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.deps.json
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.dll
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.pdb
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.AssemblyInfo.cs
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.dll
+C:\Users\Kamil.Mucha\source\repos\WarsztatyUnitTest\warsztatyUnitTest\StringCalculator\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.pdb
