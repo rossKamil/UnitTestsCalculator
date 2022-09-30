@@ -32,7 +32,7 @@ namespace StringCalculator
             {
                 if (!int.TryParse(number, out tmpNumber))
                 {
-                    throw new ArgumentException();
+                    throw new ArgumentException("Parameter its not number");
                 }
 
                 if(tmpNumber < 0)

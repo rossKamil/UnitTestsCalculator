@@ -43,9 +43,13 @@ namespace StringCalculator.Test
         public void ShouldThrowExceptionWhenContainsInvalidCharacters()
         {
             var calc = new StringCalculator();
-            Assert.That(() => calc.Add("4,a"), Throws.TypeOf<ArgumentException>());
-            Assert.That(() => calc.Add("b,a,c"), Throws.TypeOf<ArgumentException>());
-            Assert.That(() => calc.Add("1.2.3"), Throws.TypeOf<ArgumentException>());
+            Assert.Multiple(() =>
+            {
+                Assert.That(() => calc.Add("4,a"), Throws.TypeOf<ArgumentException>());
+                Assert.That(() => calc.Add("b,a,c"), Throws.TypeOf<ArgumentException>());
+                Assert.That(() => calc.Add("1.2.3"), Throws.TypeOf<ArgumentException>());
+            });
+
         }
 
         [Test] 
